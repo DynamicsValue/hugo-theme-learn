@@ -10,7 +10,7 @@
     --MENU-HOME-LINK-color: #323232; /* Color of the home button text */
     --MENU-HOME-LINK-HOVER-color: #5e5e5e; /* Color of the hovered home button text */
 
-    --MENU-HEADER-BG-color:#74b559; /* Background color of menu header */
+    --MENU-HEADER-BG-color:#414042; /* Background color of menu header */
     --MENU-HEADER-BORDER-color:#9cd484; /*Color of menu header border */
 
     --MENU-SEARCH-BG-color:#599a3e; /* Search field background color (by default borders + icons) */
@@ -125,4 +125,8 @@ a:hover {
 
 #homelinks a:hover {
   color: var(--MENU-HOME-LINK-HOVERED-color);
+}
+
+#fake-xrm-easy-logo {
+    max-width: 60%;
 }
