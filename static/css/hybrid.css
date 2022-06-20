@@ -30,13 +30,13 @@ vim-hybrid theme by w0ng (https://github.com/w0ng/vim-hybrid)
 
 /*color: fg_yellow*/
 .hljs-title,
-.hljs-name {
+.hljs-name,
+.hljd-meta {
   color: #00b8ab;
 }
 
 /*color: fg_comment*/
 .hljs-comment,
-.hljs-meta,
 .hljs-meta .hljs-keyword {
   color: #707880;
 }
